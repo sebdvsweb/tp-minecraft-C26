@@ -4,29 +4,14 @@ Code couleur
 
 Vert Minecraft : #66a01a
 
-
 */
-
 
 /*
 
 Ajouter votre style ici
 
+-> Créer votre class pour générer le fond vert de la Navbar
+
+-> Passer vos titres h2 et h3 en vert également
+
 */
-
-
-.minecraft-green-background {
-
-}
-
-h2, h3 {
-
-}
-
-.card-title {
-
-}
-
-.w-20 {
-    width: 20%;
-}
